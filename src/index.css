@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
+
+@layer components {
+    .greeting {
+        @apply text-[5.5rem] leading-tight tracking-[8px] uppercase font-light break-words pl-16 pt-5
+    }
+
+    .head-line {
+        @apply before:absolute before:content-[''] before:w-full before:h-px before:bg-gradient-to-r from-black to-white before:top-2/4 before:inline before:right-[110%]  
+    }
+
+    .end-line {
+        @apply after:absolute after:content-[''] after:w-full after:h-px after:bg-gradient-to-l from-black to-white after:top-2/4 after:inline after:left-[110%]
+    }
+
+    .avatar-border {
+        @apply after:absolute after:content-[''] after:w-3/4 after:h-full after:border-4 after:border-double after:border-greeting-color/80 after:left-[15%] after:top-[1%] after:z-0
+    }
+}
