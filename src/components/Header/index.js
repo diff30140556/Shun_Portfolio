@@ -33,7 +33,7 @@ function Header() {
 
     
     return (
-        <Disclosure as="nav" className="bg-sky-200/5 fixed top-0 w-full">
+        <Disclosure as="nav" className="bg-sky-200/5 fixed top-0 w-full z-[999]">
             {({ open }) => (
                 <>
                     <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">

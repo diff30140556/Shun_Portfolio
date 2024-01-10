@@ -16,6 +16,8 @@ module.exports = {
       'monospace': ['monospace', 'math', 'serif'],
     },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/forms'),
+  ],
 }
 
