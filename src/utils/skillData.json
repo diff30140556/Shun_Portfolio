@@ -1,0 +1,87 @@
+[
+    {
+        "name": "HTML5",
+        "logo": "https://i.imgur.com/m4Aqi0y.png",
+        "text": "https://i.imgur.com/gcv1lCT.png"
+    },
+    {
+        "name": "CSS3",
+        "logo": "https://i.imgur.com/2Tt82QL.png",
+        "text": "https://i.imgur.com/Rrx71yg.png"
+    },
+    {
+        "name": "JavaScript",
+        "logo": "https://i.imgur.com/PnWFwio.png",
+        "text": "https://i.imgur.com/ymX2bcj.png"
+    },
+    {
+        "name": "jQuery",
+        "logo": "https://i.imgur.com/MUlHIjZ.png",
+        "text": "https://i.imgur.com/pDBsveM.png"
+    },
+    {
+        "name": "Bootstrap",
+        "logo": "https://i.imgur.com/tPH9ieZ.png",
+        "text": "https://i.imgur.com/ElAzrBQ.png"
+    },
+    {
+        "name": "React",
+        "logo": "https://i.imgur.com/jJmKrTr.png",
+        "text": "https://i.imgur.com/FCeGfac.png"
+    },
+    {
+        "name": "Tailwind_CSS",
+        "logo": "https://i.imgur.com/jHzm9Ye.png",
+        "text": "https://i.imgur.com/nOJEfnB.png"
+    },
+    {
+        "name": "Vue",
+        "logo": "https://i.imgur.com/zgPXe7V.png",
+        "text": "https://i.imgur.com/GQp9Sjd.png"
+    },
+    {
+        "name": "RWD",
+        "logo": "https://i.imgur.com/usUdk9O.png",
+        "text": "https://i.imgur.com/ADqU5vf.png"
+    },
+    {
+        "name": "Node.js",
+        "logo": "https://i.imgur.com/gBPFDHf.png",
+        "text": "https://i.imgur.com/YPcoXjN.png"
+    },
+    {
+        "name": "Express.js",
+        "logo": "https://i.imgur.com/3S2P0Nr.png",
+        "text": "https://i.imgur.com/JFM7Urr.png"
+    },
+    {
+        "name": "MySQL",
+        "logo": "https://i.imgur.com/hQ4mmm8.png",
+        "text": "https://i.imgur.com/ZNhMDU6.png"
+    },
+    {
+        "name": "MongoDB",
+        "logo": "https://i.imgur.com/uHcBvZL.png",
+        "text": "https://i.imgur.com/Nm22sGP.png"
+    },
+    {
+        "name": "GraphQL",
+        "logo": "https://i.imgur.com/NWR0KKC.png",
+        "text": "https://i.imgur.com/qq5I8GB.png"
+    },
+    {
+        "name": "webpack",
+        "logo": "https://i.imgur.com/cWnqJUS.png",
+        "text": "https://i.imgur.com/djfUaEX.png"
+    },
+    {
+        "name": "Git",
+        "logo": "https://i.imgur.com/vFvZpNm.png",
+        "text": "https://i.imgur.com/JtXhs6W.png"
+    },
+    {
+        "name": "Jest",
+        "logo": "https://i.imgur.com/qJA4uY4.png",
+        "text": "https://i.imgur.com/DCNyjM7.png"
+    }
+]

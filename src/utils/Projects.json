@@ -1,0 +1,30 @@
+[
+    {
+        "Project": "GearHub",
+        "Demo": "https://i.imgur.com/dmGGE2S.png",
+        "Description": "GearHub is an e-commerce website. We established a startup tech company specializing in the sale of cutting-edge electronics called GearHub. Our customers can browse our products online and purchase their loved ones.",
+        "MainTools": "React, MongoDB, GraphQL, Express.js, Bootstrap, JWT, Stripe API",
+        "Responsive": "YES"
+    },
+    {
+        "Project": "TeeMates",
+        "Demo": "https://i.imgur.com/wtjNv5g.png",
+        "Description": "This app is designed to give golfers the ability to find and pair with golfers of similar skill levels. Users can submit tee times to invite other golfers to join, as well as, join tee times that have been posted by others in the community.",
+        "MainTools": "JavaScript, Node.js, Express.js, MySQL, Handlebars, Materialize",
+        "Responsive": "YES"
+    },
+    {
+        "Project": "Laguna Park Finder",
+        "Demo": "https://i.imgur.com/5R3N0h2.png",
+        "Description": "Laguna Park Finder is a park finder tool that shows all national parks in a state by the keywords, along with park details and the 5-day forecast, and allows users to save their favorite parks.",
+        "MainTools": "HTML5, CSS3, JavaScript, RWD, Maps Embed API, Geocoding API",
+        "Responsive": "YES"
+    },
+    {
+        "Project": "Code Quiz",
+        "Demo": "https://i.imgur.com/Hp1B07x.png",
+        "Description": "Code Quiz is a little coding quiz game. You can learn fundamentals in the game. Have fun, and test yourself. You can also see the ranking for all players. Try to improve and beat them! All animation/effects were written with vanilla JavaScript and CSS.",
+        "MainTools": "HTML5, CSS3, JavaScript, RWD",
+        "Responsive": "YES"
+    }
+]
