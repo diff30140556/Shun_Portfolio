@@ -4,6 +4,7 @@ import Project from '../components/Project';
 import ProjectsData from '../utils/Projects.json';
 
 function ProjectSection() {
+    // test
     return (
         <>
             <section className='ProjectSection min-h-screen border mx-auto flex justify-center flex-col'>
