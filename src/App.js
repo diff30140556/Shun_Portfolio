@@ -2,7 +2,6 @@ import React from 'react';
 import Header from './components/Header'
 import CoverSection from './pages/CoverSection'
 import AboutSection from './pages/AboutSection';
-import SkillSection from './pages/SkillSection';
 import ProjectSection from './pages/ProjectSection';
 import ExpSection from './pages/ExpSection';
 import ContactSection from './pages/ContactSection';
@@ -17,7 +16,6 @@ function App() {
       </header>
         <CoverSection></CoverSection>
         <AboutSection></AboutSection>
-        {/* <SkillSection></SkillSection> */}
         <ExpSection></ExpSection>
         <ProjectSection></ProjectSection>
         <ContactSection></ContactSection>

@@ -1,7 +1,7 @@
 import React from 'react';
 import Title from '../components/Title';
 import SkillCard from '../components/SkillCard';
-import skillData from '../utils/skillData.json'
+import skillData from '../utils/SkillData.json'
 import 'atropos/atropos.css';
 
 function AboutSection() {
