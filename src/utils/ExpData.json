@@ -1,0 +1,30 @@
+[
+    {
+        "company": "Boldly Fine, LLC",
+        "location": "Remote",
+        "title": "Jr. Front End Developer",
+        "year": "06/2023 - Present",
+        "description": "Custom website design and development per client's requests. Help the clients remodel and optimize their site. The main tools used in the work are HTML5, CSS3, JavaScript, RWD, and CMS."
+    },
+    {
+        "company": "TheraPeds",
+        "location": "Monterey Park, CA",
+        "title": "Office Supervisor",
+        "year": "2022 - Present",
+        "description": "Take responsibility for hundreds of cases. Ensure the quality of the treatment. Set up cloud office for the company. Maintain the hardware and software, and solve IT issues for the office."
+    },
+    {
+        "company": "TheraPeds",
+        "location": "Monterey Park, CA",
+        "title": "Case Manager",
+        "year": "2017 - 2022",
+        "description": "Collaborate and communicate with the Regional Center, clinicians, and patients for the treatment. Track the records and follow up with the current report."
+    },
+    {
+        "company": "Thai Cuisine",
+        "location":"Taipei, Taiwan",
+        "title": "Sous-Chef",
+        "year": "2011 - 2016",
+        "description": ""
+    }
+]
